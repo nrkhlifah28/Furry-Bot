@@ -14,9 +14,9 @@ Terimakasih Juga Untuk Kang Banned:
 ➸ @${'0'.split('@')[0]}
 
 ──────────────────────
-• God
-• My ortu
-• Zivfurr / Ziv San ( Me )
+• Allah
+• Orang Tuaku tercinta
+• Nour Sean ( Me )
 • Nurutomo
 • Adiwajshing
 • Ariffb
