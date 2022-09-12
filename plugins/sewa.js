@@ -45,7 +45,7 @@ let fetch = require('node-fetch')
                    "title": "────────「 Trial 」" 
                  }, { 
                      "rows": [{ 
-                       "title": `Permanent! Rp5.000`, 
+                       "title": `Permanent! Rp15.000`, 
                        "description": "Masukkan bot ke dalam group tanpa batasann waktu!", 
                        "rowId": ".masuk"
                    }], 
