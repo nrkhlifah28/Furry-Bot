@@ -6,7 +6,7 @@ let hftextt = {
 	 key: { 
           fromMe: false,
 	      participant: `0@s.whatsapp.net`, ...(m.chat ? 
-	 { remoteJid: "6282331033919-1625305606@g.us" } : {}) 
+	 { remoteJid: "6289618728196@g.us" } : {}) 
                 },
 	 message: { 
                  "videoMessage": { 
