@@ -6,10 +6,12 @@ let handler = async (m, { conn }) => {
   }
 }
 handler.help = ['linkgroup']
-handler.tags = ['group']
+handler.tags = ['admin']
 handler.command = /^link(g(c)?ro?up)?$/i
 
 handler.group = true
+handler.admin = true
+handler.owner = true
 //handler.botAdmin = true
 
 module.exports = handler
